@@ -32,8 +32,8 @@ print(f"The {university} was founded in {year}")
     # Create two variables x and y and assign them the values 5 and 10 respectively 
     # Complete the following print statements using your variables
     #All math must be done within the braces in the f-strings
-    variable_x = 5
-    variable_y = 10
+variable_x = 5
+variable_y = 10
 print(f"x + y = {variable_x + variable_y}")
 print(f"x - y = {variable_x - variable_y}")
 print(f"x * y = {variable_x * variable_y}")
